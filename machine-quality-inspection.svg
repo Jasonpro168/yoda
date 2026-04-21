@@ -1,0 +1,27 @@
+<svg width="1200" height="800" viewBox="0 0 1200 800" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="800" fill="#EEF2F5"/>
+  <rect x="56" y="56" width="1088" height="688" rx="20" fill="#FFFFFF" stroke="#C8D2DA" stroke-width="2"/>
+  <rect x="56" y="56" width="1088" height="78" rx="20" fill="#1E2A36"/>
+  <rect x="56" y="114" width="1088" height="20" fill="#1E2A36"/>
+  <text x="92" y="104" fill="#FFFFFF" font-size="34" font-family="Arial, sans-serif" font-weight="700">品質檢驗與尺寸確認</text>
+  <text x="810" y="104" fill="#B9C6D2" font-size="22" font-family="Arial, sans-serif">佑達金屬有限公司</text>
+
+  <rect x="118" y="188" width="964" height="438" rx="18" fill="#F7F9FB" stroke="#D4DCE3" stroke-width="2"/>
+  <rect x="172" y="272" width="310" height="220" rx="16" fill="#D6DEE5" stroke="#91A1AF" stroke-width="2"/>
+  <rect x="560" y="236" width="118" height="264" rx="14" fill="#B8C4CE" stroke="#7B8C9C" stroke-width="2"/>
+  <circle cx="804" cy="364" r="108" fill="#E0E6EB" stroke="#97A6B3" stroke-width="4"/>
+  <circle cx="804" cy="364" r="74" fill="#FFFFFF" stroke="#7C8E9D" stroke-width="3"/>
+  <circle cx="804" cy="364" r="14" fill="#FF8A00"/>
+  <path d="M804 290V438" stroke="#8394A3" stroke-width="4"/>
+  <path d="M730 364H878" stroke="#8394A3" stroke-width="4"/>
+  <path d="M596 500L742 406" stroke="#FF8A00" stroke-width="10" stroke-linecap="round"/>
+  <path d="M596 500H928" stroke="#5C6E7E" stroke-width="16" stroke-linecap="round"/>
+  <rect x="728" y="230" width="152" height="44" rx="10" fill="#243341"/>
+  <text x="760" y="260" fill="#FFFFFF" font-size="22" font-family="Arial, sans-serif">尺寸檢測</text>
+  <rect x="132" y="654" width="280" height="56" rx="10" fill="#F3F6F8" stroke="#D1D9E0"/>
+  <rect x="458" y="654" width="280" height="56" rx="10" fill="#F3F6F8" stroke="#D1D9E0"/>
+  <rect x="784" y="654" width="280" height="56" rx="10" fill="#F3F6F8" stroke="#D1D9E0"/>
+  <text x="177" y="690" fill="#314150" font-size="24" font-family="Arial, sans-serif">尺寸與公差確認</text>
+  <text x="500" y="690" fill="#314150" font-size="24" font-family="Arial, sans-serif">製程後品質檢查</text>
+  <text x="831" y="690" fill="#314150" font-size="24" font-family="Arial, sans-serif">出貨前再確認</text>
+</svg>

@@ -1,0 +1,31 @@
+<svg width="1200" height="800" viewBox="0 0 1200 800" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="800" fill="#EEF2F5"/>
+  <rect x="56" y="56" width="1088" height="688" rx="20" fill="#FFFFFF" stroke="#C8D2DA" stroke-width="2"/>
+  <rect x="56" y="56" width="1088" height="78" rx="20" fill="#1E2A36"/>
+  <rect x="56" y="114" width="1088" height="20" fill="#1E2A36"/>
+  <text x="92" y="104" fill="#FFFFFF" font-size="34" font-family="Arial, sans-serif" font-weight="700">CNC 銑床加工</text>
+  <text x="810" y="104" fill="#B9C6D2" font-size="22" font-family="Arial, sans-serif">佑達金屬有限公司</text>
+
+  <rect x="106" y="188" width="990" height="438" rx="18" fill="#F7F9FB" stroke="#D4DCE3" stroke-width="2"/>
+  <rect x="210" y="232" width="158" height="258" rx="14" fill="#C8D1D9" stroke="#8798A7" stroke-width="2"/>
+  <rect x="474" y="210" width="130" height="274" rx="14" fill="#AEB9C4" stroke="#738494" stroke-width="2"/>
+  <rect x="624" y="340" width="290" height="84" rx="14" fill="#D7DFE6" stroke="#92A2B1" stroke-width="2"/>
+  <rect x="240" y="500" width="690" height="34" rx="10" fill="#667786"/>
+  <path d="M540 250V470" stroke="#324250" stroke-width="12" stroke-linecap="round"/>
+  <circle cx="540" cy="330" r="36" fill="#3E5364"/>
+  <path d="M516 330H564" stroke="#FF8A00" stroke-width="7" stroke-linecap="round"/>
+  <path d="M540 306V354" stroke="#FF8A00" stroke-width="7" stroke-linecap="round"/>
+  <rect x="708" y="356" width="118" height="28" rx="8" fill="#546574"/>
+  <path d="M368 362H474" stroke="#FF8A00" stroke-width="8" stroke-linecap="round"/>
+  <path d="M914 362H968" stroke="#FF8A00" stroke-width="8" stroke-linecap="round"/>
+
+  <rect x="120" y="654" width="300" height="56" rx="10" fill="#F3F6F8" stroke="#D1D9E0"/>
+  <rect x="450" y="654" width="300" height="56" rx="10" fill="#F3F6F8" stroke="#D1D9E0"/>
+  <rect x="780" y="654" width="300" height="56" rx="10" fill="#F3F6F8" stroke="#D1D9E0"/>
+  <text x="165" y="690" fill="#314150" font-size="24" font-family="Arial, sans-serif">平面 / 外型 / 槽孔</text>
+  <text x="492" y="690" fill="#314150" font-size="24" font-family="Arial, sans-serif">多面加工彈性高</text>
+  <text x="822" y="690" fill="#314150" font-size="24" font-family="Arial, sans-serif">適合客製零件</text>
+
+  <rect x="916" y="188" width="180" height="58" rx="10" fill="#243341"/>
+  <text x="944" y="225" fill="#FFFFFF" font-size="24" font-family="Arial, sans-serif">銑削製程</text>
+</svg>

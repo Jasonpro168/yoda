@@ -1,0 +1,39 @@
+<svg width="1200" height="800" viewBox="0 0 1200 800" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="800" fill="#EEF2F5"/>
+  <rect x="56" y="56" width="1088" height="688" rx="20" fill="#FFFFFF" stroke="#C8D2DA" stroke-width="2"/>
+  <rect x="56" y="56" width="1088" height="78" rx="20" fill="#1E2A36"/>
+  <rect x="56" y="114" width="1088" height="20" fill="#1E2A36"/>
+  <text x="92" y="104" fill="#FFFFFF" font-size="34" font-family="Arial, sans-serif" font-weight="700">加工案例展示</text>
+  <text x="810" y="104" fill="#B9C6D2" font-size="22" font-family="Arial, sans-serif">佑達金屬有限公司</text>
+
+  <rect x="108" y="188" width="984" height="438" rx="18" fill="#F7F9FB" stroke="#D4DCE3" stroke-width="2"/>
+  <rect x="150" y="228" width="302" height="168" rx="14" fill="#D8E0E6" stroke="#93A2AF" stroke-width="2"/>
+  <rect x="174" y="252" width="112" height="112" rx="56" fill="#7E919F"/>
+  <rect x="312" y="252" width="108" height="32" rx="10" fill="#60717F"/>
+  <rect x="312" y="300" width="86" height="32" rx="10" fill="#B8C3CC"/>
+  <rect x="312" y="348" width="66" height="16" rx="8" fill="#FF8A00"/>
+
+  <rect x="474" y="228" width="286" height="168" rx="14" fill="#DDE4EA" stroke="#93A2AF" stroke-width="2"/>
+  <path d="M520 344L566 278H644L690 344H520Z" fill="#5E6F7D"/>
+  <rect x="546" y="352" width="118" height="20" rx="8" fill="#FF8A00"/>
+  <rect x="692" y="252" width="32" height="112" rx="10" fill="#7E919F"/>
+
+  <rect x="784" y="228" width="266" height="168" rx="14" fill="#D7DFE6" stroke="#93A2AF" stroke-width="2"/>
+  <circle cx="862" cy="308" r="54" fill="#6A7B89"/>
+  <circle cx="862" cy="308" r="22" fill="#E9EEF2"/>
+  <rect x="930" y="266" width="82" height="20" rx="8" fill="#60717F"/>
+  <rect x="930" y="300" width="62" height="20" rx="8" fill="#60717F"/>
+  <rect x="930" y="334" width="96" height="20" rx="8" fill="#FF8A00"/>
+
+  <rect x="150" y="430" width="900" height="150" rx="16" fill="#FFFFFF" stroke="#D4DCE3" stroke-width="2"/>
+  <text x="186" y="476" fill="#1F2D3A" font-size="28" font-family="Arial, sans-serif" font-weight="700">常見加工應用</text>
+  <text x="186" y="522" fill="#556573" font-size="24" font-family="Arial, sans-serif">軸心零件 / 結構件 / 套筒件 / 孔位加工 / 螺牙加工</text>
+  <text x="186" y="560" fill="#556573" font-size="24" font-family="Arial, sans-serif">可依圖面、材質、數量與交期需求安排合適製程</text>
+
+  <rect x="120" y="654" width="280" height="56" rx="10" fill="#F3F6F8" stroke="#D1D9E0"/>
+  <rect x="460" y="654" width="280" height="56" rx="10" fill="#F3F6F8" stroke="#D1D9E0"/>
+  <rect x="800" y="654" width="280" height="56" rx="10" fill="#F3F6F8" stroke="#D1D9E0"/>
+  <text x="166" y="690" fill="#314150" font-size="24" font-family="Arial, sans-serif">依圖面評估</text>
+  <text x="494" y="690" fill="#314150" font-size="24" font-family="Arial, sans-serif">客製加工安排</text>
+  <text x="838" y="690" fill="#314150" font-size="24" font-family="Arial, sans-serif">穩定出貨交期</text>
+</svg>
